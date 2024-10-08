@@ -4,15 +4,17 @@ Core Java refers to the fundamental aspects of the Java programming language use
 
 ## Application
 According to Sun, 3 billion devices run Java. There are many devices where Java is currently used. Some of them are as follows: 
+<ul>
+    <li>Desktop Applications such as acrobat reader, media player, antivirus,etc. </li>
+    <li>Web Applications such as irctc.co.in, javatpoint.com, etc. </li>
+    <li>Enterprise Applications such as banking applications. </li>
+    <li>Mobile </li>
+    <li>Embedded System </li>
+    <li> Smart Card </li>
+    <li>Robotics </li>
+    <li>Games, etc.</li>
+</ul>
 
-### Desktop Applications such as acrobat reader, media player, antivirus,etc. 
-### Web Applications such as irctc.co.in, javatpoint.com, etc. 
-### Enterprise Applications such as banking applications. 
-### Mobile 
-### Embedded System 
-### Smart Card 
-### Robotics 
-### Games, etc.
 
 ## Hello World Example 
 ```Java
