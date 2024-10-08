@@ -1,6 +1,8 @@
 # Day 2:-13 June 2024
-
-##  Data Types
+## Data Types,Operators,Control Statements
+### Activity:-
+Practiced basic syntax and simple programs & Wrote programs using if-else, switch-case, and different loops.
+###  Data Types
 
 Data types specify the different sizes and values that can be stored in the variable. There are two types of data types in Java: 
 <ul>
@@ -8,9 +10,9 @@ Data types specify the different sizes and values that can be stored in the vari
     <li><b>Non-primitive data types:-</b> The non-primitive data types include Classes, Interfaces, and Arrays.</li>
 </ul>
 
-![image](images/image.png)
+![image](images/DataType.png)
 
-## Operators 
+### Operators 
 Operator in Java is a symbol that is used to perform operations. For example: +, -, *, / etc. There are many types of operators in Java which are given below:
 <ul>
     <li>Uniary Operator</li>
@@ -24,7 +26,7 @@ Operator in Java is a symbol that is used to perform operations. For example: +,
     <li>Assignment Operator</li>
 </ul>
 
-## Control Statement
+### Control Statement
 
 Java compiler executes the code from top to bottom. The statements in the code are executed according to the order in which they appear. However, Java provides statements that can be used to control the flow of Java code. Such statements are called control flow statements.
 #### Java provides three types of control flow statements.
@@ -34,7 +36,7 @@ Java compiler executes the code from top to bottom. The statements in the code a
     <li>Jump Statement</li>
 </ul>
 
-### Example
+#### Example
 ```java
 if (num > 0) { 
     System.out.println("Positive"); 
