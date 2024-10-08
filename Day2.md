@@ -3,6 +3,7 @@
 
 ### Steps 1:-
 In the first step, Open your browser and navigate to https://www.eclipse.org/
+![image](https://github.com/user-attachments/assets/5b0e520f-8397-47cd-8ed0-d7d6023cc897)
 
 ### Step 2:-
 Then, click on the “Download” button to download Eclipse IDE.
