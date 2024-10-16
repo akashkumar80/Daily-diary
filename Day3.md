@@ -1,4 +1,4 @@
-# Day 2:-13 June 2024
+# Day 3:-13 June 2024
 ## Data Types,Operators,Control Statements
 ### Activity:-
 Practiced basic syntax and simple programs & Wrote programs using if-else, switch-case, and different loops.
